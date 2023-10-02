@@ -1,0 +1,17 @@
+#htmll{
+text-align: center;
+text-transform: capitalize;
+line-height: 20px;
+font-variant: small-caps;
+}
+
+#csss{
+  text-align: justify;
+  color: red;
+  font-variant: small-caps;
+}
+
+#jss{
+  text-transform: capitalize;
+  color: green;
+}
